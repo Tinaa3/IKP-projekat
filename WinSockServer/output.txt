@@ -1,0 +1,3 @@
+Worker role 0: 44
+Worker role 0: 51
+Worker role 0: 54
